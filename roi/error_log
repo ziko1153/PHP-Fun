@@ -1,0 +1,78 @@
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: name in /home/andwinit/public_html/roi/roi.php on line 3
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: email in /home/andwinit/public_html/roi/roi.php on line 4
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: mobile in /home/andwinit/public_html/roi/roi.php on line 5
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: current_energy in /home/andwinit/public_html/roi/roi.php on line 6
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: new_energy in /home/andwinit/public_html/roi/roi.php on line 7
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: yearly_savings in /home/andwinit/public_html/roi/roi.php on line 8
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: property_add in /home/andwinit/public_html/roi/roi.php on line 11
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: type_property in /home/andwinit/public_html/roi/roi.php on line 12
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: ex_wat in /home/andwinit/public_html/roi/roi.php on line 13
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: new_wat in /home/andwinit/public_html/roi/roi.php on line 14
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: op_hours in /home/andwinit/public_html/roi/roi.php on line 15
+[26-Aug-2020 18:50:42 UTC] PHP Notice:  Undefined index: op_days in /home/andwinit/public_html/roi/roi.php on line 16
+[26-Aug-2020 18:50:42 UTC] PHP Warning:  Division by zero in /home/andwinit/public_html/roi/roi.php on line 23
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2209
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2210
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2211
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2212
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2298
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2299
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2300
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2301
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2536
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2537
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2538
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 2539
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3300
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3300
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3301
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3301
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3301
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3302
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3303
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3304
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3305
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3305
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3306
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3306
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3307
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3307
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3307
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 3307
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 4561
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5301
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5301
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5302
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5303
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5303
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5304
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5305
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5305
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5305
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5306
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 5588
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 16985
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 16987
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 16993
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 16997
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17001
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17031
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17031
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17032
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17033
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17033
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17034
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17035
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17035
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17035
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 17036
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 20561
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 20562
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 20562
+[26-Aug-2020 18:50:42 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 20562
+[26-Aug-2020 18:50:42 UTC] PHP Fatal error:  Uncaught Mpdf\MpdfException: mbstring extension must be loaded in order to run mPDF in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php:9489
+Stack trace:
+#0 /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php(1000): Mpdf\Mpdf->_dochecks()
+#1 /home/andwinit/public_html/roi/roi.php(32): Mpdf\Mpdf->__construct(Array)
+#2 {main}
+  thrown in /home/andwinit/public_html/roi/vendor/mpdf/mpdf/src/Mpdf.php on line 9489
