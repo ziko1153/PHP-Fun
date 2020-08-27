@@ -1,8 +1,8 @@
 <?php
 define("DB_HOST", "localhost");
-define("DB_USER", "tahmidzi_admin");
-define("DB_PASS", "e8yV#m4)Oib1");
-define("DB_NAME", "tahmidzi_db_pos");
+define("DB_USER", "root");
+define("DB_PASS", "");
+define("DB_NAME", "db_sms");
 
 define("admin_name", "Admin");
 define("admin_logo", "images/");
