@@ -49,14 +49,14 @@ body {
                 <p id="country_name" style="display: none;"></p>
                 <div class="form-horizontal">
                     <div class="form-group">
-                        <label class="control-label col-sm-3" for="">খারাপ লাগা /Negative Comment:</label>
+                        <label class="control-label col-sm-3" for="">খারাপ মন্তব্য /Negative Comment:</label>
                         <div class="col-sm-9 ">
                             <textarea class="form-control" rows="5" id="negative"></textarea>
                         </div>
                     </div>
 
                     <div class="form-group">
-                        <label class="control-label col-sm-3" for="">ভালো লাগা /Postive Comment:</label>
+                        <label class="control-label col-sm-3" for="">ভালো মন্তব্য /Postive Comment:</label>
                         <div class="col-sm-9 ">
                             <textarea class="form-control" rows="5" id="positive"></textarea>
                         </div>
@@ -160,11 +160,12 @@ $("#submit").click(function(e) {
     neglength = negative.length;
 
     if (negative == '') {
-        alert("খারাপ লাগা লিখবেন না? \n Please Write Some Bad Comments About me");
+        alert("খারাপ মন্তব্য  লিখবেন না? \n Please Write Some Bad Comments About me");
     } else if (positive == '') {
-        alert("ভালো লাগা লিখবেন না? \n Pleasee Write Some Goodd Coomments About me");
+        alert("ভালো মন্তব্য  লিখবেন না? \n Pleasee Write Some Goodd Coomments About me");
     } else if (neglength < 50) {
-        alert("খারাপ একটু বেশি লিখেন : " + neglength + "< 50 \n\n Write More Bad Comments : " + neglength +
+        alert("খারাপ মন্তব্য  একটু বেশি লিখেন : " + neglength + "< 50 \n\n Write More Bad Comments : " +
+            neglength +
             "< 50");
     } else {
 
