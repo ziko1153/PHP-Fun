@@ -10,8 +10,8 @@ $datetime = date('Y-m-d H:i:s');
 $date = date('Y-m-d');
 $time = date('H:i:s');
 
-$negative = $_POST['negative'];
-$positive = $_POST['positive'];
+$negative = mysqli_real_escape_string($db->link, $_POST['negative']);
+$positive = mysqli_real_escape_string($db->link, $_POST['positive']);
 $bro_name = $_POST['bro_name'];
 $bro_ver = $_POST['bro_ver'];
 $ip = $_POST['ip'];

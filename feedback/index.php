@@ -37,6 +37,7 @@ body {
         <div class="row">
             <div class="col-sm-12 text-center">
                 <h2><u>আপনার যা ইচ্ছা তাই লিখেন</u></h2>
+                <h2><u>Write Whatever You Want</u></h2>
             </div>
         </div>
         <br>
@@ -50,6 +51,7 @@ body {
                 <div class="form-horizontal">
                     <div class="form-group">
                         <label class="control-label col-sm-3" for="">খারাপ মন্তব্য /Negative Comment:</label>
+
                         <div class="col-sm-9 ">
                             <textarea class="form-control" rows="5" id="negative"></textarea>
                         </div>
